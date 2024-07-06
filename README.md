@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-👋 I’m Phong
-👀 I’m interested in Flutter and iOS Development
-🌱 I’m currently learning Swift & SwiftUI
-📫 How to reach me ... linkedin: @phong-nguyen-311179314
+- 👋 I’m Phong
+- 👀 I’m interested in Flutter and iOS Development
+- 🌱 I’m currently learning Swift & SwiftUI
+- 📫 How to reach me ... linkedin: @phong-nguyen-311179314
 <!--
 **nguyenphongn97/nguyenphongn97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
